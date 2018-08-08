@@ -1,11 +1,11 @@
 Locales['de'] = {
-	['shop'] = 'geschäft',
-	['shops'] = 'geschäfte',
-	['press_menu'] = 'drücke ~INPUT_CONTEXT~ um auf das Geschäft zuzugreifen.',
-	['bought'] = 'you just bought ~y~%sx~s~ ~b~%s~s~ for ~r~$%s~s~',
-	['not_enough'] = 'du ~r~hast nicht~s~ genug geld: %s',
-	['player_cannot_hold'] = 'you do ~r~not~s~ have enough ~y~free space~s~ in your inventory!',
-	['shop_confirm'] = 'buy %sx %s for $%s?',
-	['no'] = 'no',
-	['yes'] = 'yes',
+	['shop'] 		= 'Geschäft',
+	['shops'] 		= 'Geschäfte',
+	['press_menu'] 		= 'Benutze ~INPUT_CONTEXT~ um auf das Geschäft zuzugreifen.',
+	['bought'] 		= 'Du kaufst ~b~1x ',
+	['not_enough'] 		= 'Du ~r~hast nicht~s~ genug Geld!'
+	['player_cannot_hold'] 	= 'Du hast ~r~keinen Platz~s~ mehr in Deinem ~y~Rucksack~s~!',
+	['shop_confirm'] 	= 'Kaufe %sx %s für $%s?',
+	['no'] 			= 'Nein',
+	['yes'] 		= 'Ja',
 }
